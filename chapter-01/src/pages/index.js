@@ -10,7 +10,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main>
-        <h1>Next.js-Cookbook</h1>
+        <h1>Next.js-Cookbook with Pages</h1>
       </main>
     </>
   );
